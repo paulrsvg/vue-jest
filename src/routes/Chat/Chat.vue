@@ -4,12 +4,7 @@
 
         <h1>
 
-
-<<<<<<< HEAD
-           Better Globoticket Customer Service Chat
-=======
-            Globoticket Customer Service Chat
->>>>>>> master
+           Even Better Globoticket Customer Service Chat
 
         </h1>
 
